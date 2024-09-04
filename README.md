@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
+Open [https://3002-cs-32dcf5af-e25c-45e6-a110-170c91456d13.cs-asia-southeast1-bool.cloudshell.dev/live] to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
